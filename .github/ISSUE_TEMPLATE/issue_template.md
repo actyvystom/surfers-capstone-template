@@ -3,7 +3,7 @@ name: User Story Template
 about: |
   A template to create user stories.
   Remove all ... and examples before posting.
-labels: enhancement,feature,bug
+labels: enhancement|bug
 ---
 
 ## Value Proposition
